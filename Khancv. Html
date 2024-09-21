@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Alam Khan</h1>
+            <p>MCA Student</p>
+        </div>
+        <div class="section">
+            <h2>Contact Information</h2>
+            <p>Address: Dist-Jagatsinghpur, At/post-Balikuda</p>
+            <p>Age: 22 Years</p>
+        </div>
+        <div class="section">
+            <h2>Education</h2>
+            <p>10th: Balikuda High School</p>
+            <p>+2: Balikuda Junior Science College</p>
+            <p>PG: Gandhi Engineering College (MCA)</p>
+        </div>
+        <div class="section">
+            <h2>Skills</h2>
+            <ul class="skills">
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>C Language</li>
+                <li>JavaScript (Learning)</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Hobby</h2>
+            <ul class="hobby">
+                <li>Podcast</li>
+                <li>Stand-up Comedy</li>
+                <li>Stock Market</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Goals</h2>
+            <p>Short Term: 1 achhe IT company me job lena</p>
+            <p>Long Term: Successful IT company built karna</p>
+        </div>
+    </div>
+</body>
+</html>
